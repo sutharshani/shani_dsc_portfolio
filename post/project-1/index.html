@@ -40,7 +40,7 @@
 <meta itemprop="description" content="Employee Retention Issue – a Predictive Analysis">
 <meta itemprop="datePublished" content="2020-03-27T11:58:00&#43;00:00" />
 <meta itemprop="dateModified" content="2020-03-27T11:58:00&#43;00:00" />
-<meta itemprop="wordCount" content="721">
+<meta itemprop="wordCount" content="938">
 
 
 
@@ -210,10 +210,18 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Employee attrition or turnover occurs when an employee leaves the organization.
-It is different from employee discharge, termination, resignation, and abandonment.
-In the case of employee attrition, when the employee leaves the company, employee position remains unfilled.
-In the case of turnover, the position is filled by a replacement employee.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Employee attrition or turnover occurs when an employee leaves the organization. It is different from employee discharge,
+termination, resignation, and abandonment. In the case of employee attrition, when an employee leaves the company,
+the employee position remains unfilled. But in the case of turnover, the position is filled by a replacement employee.</p>
+<p>It is a critical problem for employers as it impacts their growth and ability to complete. Here,
+I will discuss how we can build a model that can help the HR team in identifying employees that
+can leave the organization so that they can work with employees and take corrective measures to reduce
+the attrition rate problem by working with employees at risk of leaving the organization. In Data Science world to deal
+with this type of issue the term used is “Employee churn analytics” which is the process of evaluating
+employee staff turnover rates to predict the future and reduce employee churn. For this project,
+I am using IBM employee data from Kaggle [2]. I will use this dataset to understand different features within the
+dataset and then use the same to build machine learning models using different algorithms to find what algorithm
+works best and what is accuracy.</p>
 <p><a href="https://github.com/sutharshani/employee_retention">Link to GitHub</a></p>
 <h1 id="table-of-contents">Table of Contents</h1>
 <ol>
@@ -295,19 +303,35 @@ So, the target variable will be <em>Attrition</em>, and the remaining features w
 <ul>
 <li>Python 3 (or Anaconda distribution with Python 3)</li>
 <li>Jupyter or any other notebook</li>
+<li>numpy, pandas, seaborn, matplotlib, sklearn, xgboost &amp; tensorflow packages required</li>
 </ul>
 <p><a href="#table-of-contents">back to top</a></p>
 <h2 id="project-status">Project Status</h2>
-<p>Work in progress. I will be uploading more details soon.</p>
+<p>I build below models and compared results. Neural networks and xgboost performed well as compared to others.</p>
+<ul>
+<li>Logistic Regression</li>
+<li>Random Forest</li>
+<li>SVM</li>
+<li>kNN</li>
+<li>Decision Tree</li>
+<li>Gaussian NB</li>
+<li>Neural Network</li>
+<li>XGBoost</li>
+</ul>
 <p><a href="#table-of-contents">back to top</a></p>
 <h2 id="method-used">Method Used</h2>
-<p>For this I will be performing classification and regression methods to build a model to understand which method works
-best and I will use that as my final model for this project.</p>
+<p>Performed various models and compared their results to find best performing model.
+After executing models with default setting, I selected good performing models for further process
+where I did perform hyper-parameter turning. Tuning did really help, and it increases model performance.</p>
 <ul>
-<li><em>Classification</em>: I will use historical data with predefined target variables AKA labels (churner/non-churner) to train
-an algorithm. With classification, we can answer the employee churn or not.</li>
-<li><em>Regression</em>: I will use it to estimate the relationship between a target variable and other data values that influence
-the target variable. Regression analysis allows estimating how many variables in data influence the target variable.</li>
+<li>Logistic Regression</li>
+<li>Random Forest</li>
+<li>SVM</li>
+<li>kNN</li>
+<li>Decision Tree</li>
+<li>Gaussian NB</li>
+<li>Neural Network</li>
+<li>XGBoost</li>
 </ul>
 <p><strong>Potential Issues?</strong>
 There are below challenges I will face while working on this analysis.</p>
@@ -327,9 +351,15 @@ dataset to train the model on.</li>
 <p>Shani Kumar</p>
 <p><a href="#table-of-contents">back to top</a></p>
 <h2 id="acknowledgement">Acknowledgement</h2>
-<p>Based on the model&rsquo;s prediction HR will be able to understand about employees at risk of leaving the company. Also,
-from the associated key factors analysis, they will be able to understand why certain employee is at risk and what
-changes they can do that might reduce the risk and employee will remain with the company.<br>
+<p>With the help of machine learning algorithms, the employer will be able to predict employees at risk of leaving.
+I believe ingesting more data into the machine learning model will help us get better results from what
+we have achieved here in our research. Also, I think based on the model, Employer should be able to create
+different risk categories of employee leaving. Also, the HR team can use the feature importance as their
+reference point to see how to categories the employees and handle each case.</p>
+<p>The employer should keep retraining the model as the new data comes in. This will help them track nuke trends
+as well as model performance. If the model performance goes down, remodeling will be required to handle new data
+and get new models accordingly.
+<br>
 <a href="#table-of-contents">back to top</a></p>
 <h2 id="reference">Reference</h2>
 <ol>

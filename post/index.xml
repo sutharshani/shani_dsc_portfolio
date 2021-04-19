@@ -17,9 +17,8 @@
       <pubDate>Fri, 27 Mar 2020 11:58:00 +0000</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</guid>
-      <description>Employee attrition or turnover occurs when an employee leaves the organization. It is different from employee discharge, termination, resignation, and abandonment. In the case of employee attrition, when the employee leaves the company, employee position remains unfilled. In the case of turnover, the position is filled by a replacement employee.
-Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Methods Used Versioning Authors Acknowledgement Reference  Introduction Here I will discuss how we can build a model that can help HR in identifying employees that can leave the organization so that they can work with employees and take corrective measures to reduce the attrition problem related to employees leaving the organization.</description>
+      <description>Employee attrition or turnover occurs when an employee leaves the organization. It is different from employee discharge, termination, resignation, and abandonment. In the case of employee attrition, when an employee leaves the company, the employee position remains unfilled. But in the case of turnover, the position is filled by a replacement employee.
+It is a critical problem for employers as it impacts their growth and ability to complete. Here, I will discuss how we can build a model that can help the HR team in identifying employees that can leave the organization so that they can work with employees and take corrective measures to reduce the attrition rate problem by working with employees at risk of leaving the organization.</description>
     </item>
     
     <item>
