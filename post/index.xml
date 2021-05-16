@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Project 2: Image Classification</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</link>
+      <pubDate>Mon, 30 Mar 2020 10:58:05 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</guid>
+      <description>Image classification is a technique which we use to identify an object with-in the image. Using this project I will learn how can we perform Image classification using Keras &amp;amp; TensorFlow.
+Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
+Data Background back to top
+Prerequisite You will need the following applications to execute this project-
+ Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+    </item>
+    
+    <item>
       <title>Project 1: Employee Retention Issue</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</link>
       <pubDate>Fri, 27 Mar 2020 11:58:00 +0000</pubDate>
@@ -19,18 +33,6 @@
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</guid>
       <description>Employee attrition or turnover occurs when an employee leaves the organization. It is different from employee discharge, termination, resignation, and abandonment. In the case of employee attrition, when an employee leaves the company, the employee position remains unfilled. But in the case of turnover, the position is filled by a replacement employee.
 It is a critical problem for employers as it impacts their growth and ability to complete. Here, I will discuss how we can build a model that can help the HR team in identifying employees that can leave the organization so that they can work with employees and take corrective measures to reduce the attrition rate problem by working with employees at risk of leaving the organization.</description>
-    </item>
-    
-    <item>
-      <title>Project 2: Exploratory Data Analysis</title>
-      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</link>
-      <pubDate>Fri, 27 Mar 2020 11:50:00 +0000</pubDate>
-      
-      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</guid>
-      <description>In this project I did some exploratory analysis to answer certain questions like:
- After certain age as the athletes get older their chances of winning medals in Olympic decreases. Young athlete wins more modals as compared to older athlete.  I will be doing EDA on this dataset using Python to answer this question.
-Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction EDA is one of the critical process that we need to perform in our initial investigation to get good understanding about the dataset.</description>
     </item>
     
     <item>
@@ -70,17 +72,15 @@ Table of Contents  Introduction Data Background Prerequisite Project Status Vers
     </item>
     
     <item>
-      <title>Project 6: Image Classification</title>
+      <title>Project 6: Exploratory Data Analysis</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-6/</link>
-      <pubDate>Thu, 26 Mar 2020 10:58:05 -0400</pubDate>
+      <pubDate>Thu, 26 Mar 2020 10:58:04 -0400</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-6/</guid>
-      <description>Image classification is a technique which we use to identify object with-in the image. Using this project I will learn how can we perform Image classification using Keras &amp;amp; TensorFlow.
+      <description>In this project I did some exploratory analysis to answer certain questions like:
+ After certain age as the athletes get older their chances of winning medals in Olympic decreases. Young athlete wins more modals as compared to older athlete.  I will be doing EDA on this dataset using Python to answer this question.
 Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
-Data Background back to top
-Prerequisite You will need the following applications to execute this project-
- Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction EDA is one of the critical process that we need to perform in our initial investigation to get good understanding about the dataset.</description>
     </item>
     
     <item>
