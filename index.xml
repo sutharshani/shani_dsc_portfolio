@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Home</title>
+    <link>https://sutharshani.github.io/shani_dsc_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2020 10:58:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://sutharshani.github.io/shani_dsc_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: Image Classification</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</link>
+      <pubDate>Mon, 30 Mar 2020 10:58:05 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</guid>
+      <description>Image classification is a technique which we use to identify an object with-in the image. Using this project I will learn how can we perform Image classification using Keras &amp;amp; TensorFlow.
+Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
+Data Background back to top
+Prerequisite You will need the following applications to execute this project-
+ Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Employee Retention Issue</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</link>
+      <pubDate>Fri, 27 Mar 2020 11:58:00 +0000</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</guid>
+      <description>Employee attrition or turnover occurs when an employee leaves the organization. It is different from employee discharge, termination, resignation, and abandonment. In the case of employee attrition, when an employee leaves the company, the employee position remains unfilled. But in the case of turnover, the position is filled by a replacement employee.
+It is a critical problem for employers as it impacts their growth and ability to complete. Here, I will discuss how we can build a model that can help the HR team in identifying employees that can leave the organization so that they can work with employees and take corrective measures to reduce the attrition rate problem by working with employees at risk of leaving the organization.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Analysis on Air Travel Safety through Data Visualization</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-3/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:30 -1000</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-3/</guid>
+      <description>Link to GitHub
+Using Air-Travel historical data I will be performing data visualization to learn about the data to answer the outstanding question.
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
+Data Background back to top
+Prerequisite You will need the following applications to execute this project-
+ Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Credit Card Fraud Detection</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-4/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:07 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-4/</guid>
+      <description>We have witnessed an enormous evolution in credit card processing over last few years, issuing chip-based credit cards, starting mobile device-based wallets like Apple Pay are some significant changes done to secure credit card transactions.
+The scope of this project is to research and identify different types of predictive analysis algorithms available that can be applied to determine and stop fraudulent transactions.
+Using this project I will get to learn more on anomaly detection and analysis.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Twitter Sentimental Analysis</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-5/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:06 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-5/</guid>
+      <description>Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. Using this project I will perform sentimental analysis using Twitter data. This will help me learn more about NLP.
+Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Exploratory Data Analysis</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-6/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:04 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-6/</guid>
+      <description>In this project I did some exploratory analysis to answer certain questions like:
+ After certain age as the athletes get older their chances of winning medals in Olympic decreases. Young athlete wins more modals as compared to older athlete.  I will be doing EDA on this dataset using Python to answer this question.
+Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction EDA is one of the critical process that we need to perform in our initial investigation to get good understanding about the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Web-Scraping through Python</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-7/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:04 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-7/</guid>
+      <description>Web scraping is the process of collecting and parsing raw data from the Web. It is one of the important way of getting data when there is no way to get data through API or any other means. Using this project I will learn more about Web-Scraping techniques we can use to get data.
+Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Weather Application</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-8/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:03 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-8/</guid>
+      <description>Using this project I will get exposure to understand how can we expose JSON API using Python and get the work done.
+Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
+Data Background back to top
+Prerequisite You will need the following applications to execute this project-
+ Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Poster on Stock Price Prediction</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-9/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:02 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-9/</guid>
+      <description>The Stock Market is a complex world in itself, and the stock price movement is hard to predict. Accurate predictions on how stocks are going to perform remain a crucial issue in finance. Participants in trading are constantly looking for techniques that can better predict stock price movements. Technical and Fundamental indicators based on the past performance of stocks can help us understand how the stocks are going to perform. However, many factors can impact market sentiments like political news, social media buzz, and the latest developments in the company are a few of the examples which can change the stock trends.</description>
+    </item>
+    
+    <item>
+      <title>Project 10: Time Series Modelling</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-10/</link>
+      <pubDate>Thu, 26 Mar 2020 10:58:01 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-10/</guid>
+      <description>Time series analysis uses methods to analyze time series data using statistics and other analytics methods. Time series forecasting is used to predict future values based on historical data.
+Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
+Data Background back to top
+Prerequisite You will need the following applications to execute this project-
+ Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/about/</guid>
+      <description>I am a Mainframe Application Programmer, and most of my time goes into writing Assembler code. I have 8+ years of experience in Card Payment Processing.
+I am data enthusiastic by heart, and apart from my routine work, I do love to work on solving data problems. Based on my experience at work, I have realized data is very powerful, when utilized in the right way, it can help gain a lot of insightful and actionable information that can help make better-informed decisions.</description>
+    </item>
+    
+  </channel>
+</rss>
