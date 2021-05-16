@@ -9,7 +9,8 @@ I have created this portfolio to show my recent work on different data science p
 
 <h1> About </h1>
 <p> I am a Mainframe Application Programmer, and most of my time goes into writing Assembler code. I have 8+ years of experience in Card Payment Processing. <br>
-Based on my experience from the past few years, I have realized data is very powerful, and when you have huge data at hand, you can get a lot of information that can help make better-informed decisions. This brought me to data science. Currently, I am perusing Masters in Data Science at Bellevue University and loving my journey in Data Science so far. </p>
+Based on my experience from the past few years, I have realized data is very powerful, and when you have huge data at hand, you can get a lot of information that can help make better-informed decisions. This brought me to data science. Currently, I am perusing Masters in Data Science at Bellevue University and loving my journey in Data Science so far.
+</p>
 
 <h1> Projects </h1>
 
