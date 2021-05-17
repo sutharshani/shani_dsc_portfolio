@@ -17,12 +17,7 @@
       <pubDate>Mon, 30 Mar 2020 10:58:05 -0400</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</guid>
-      <description>Image classification is a technique which we use to identify an object with-in the image. Using this project I will learn how can we perform Image classification using Keras &amp;amp; TensorFlow.
-Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
-Data Background back to top
-Prerequisite You will need the following applications to execute this project-
- Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+      <description>It is an image classification project work. Image classification comes under the computer vision project category and is mostly used in digital image analysis. We can apply image classification for both supervised classification and unsupervised classification. In the supervised classification, we do train model on target class to classify the class correctly in new samples. But we group the samples the cluster of images with similar properties in unsupervised classification. The goal of this project is to work on various approaches to solve the classification problem.</description>
     </item>
     
     <item>
