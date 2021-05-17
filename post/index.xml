@@ -14,7 +14,7 @@
     <item>
       <title>Project 2: Image Classification</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</link>
-      <pubDate>Mon, 30 Mar 2020 10:58:05 -0400</pubDate>
+      <pubDate>Sat, 15 May 2021 10:58:05 -0400</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</guid>
       <description>It is an image classification project work. Image classification comes under the computer vision project category and is mostly used in digital image analysis. We can apply image classification for both supervised classification and unsupervised classification. In the supervised classification, we do train model on target class to classify the class correctly in new samples. But we group the samples the cluster of images with similar properties in unsupervised classification. The goal of this project is to work on various approaches to solve the classification problem.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Project 1: Employee Retention Issue</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</link>
-      <pubDate>Fri, 27 Mar 2020 11:58:00 +0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 11:58:00 +0000</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</guid>
       <description>Employee attrition or turnover occurs when an employee leaves the organization. It is different from employee discharge, termination, resignation, and abandonment. In the case of employee attrition, when an employee leaves the company, the employee position remains unfilled. But in the case of turnover, the position is filled by a replacement employee.
