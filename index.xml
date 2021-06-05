@@ -6,29 +6,35 @@
     <description>Recent content in Data Science Portfolio on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2020 10:58:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jun 2021 10:58:06 -0400</lastBuildDate>
     
 	<atom:link href="https://sutharshani.github.io/shani_dsc_portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project 2: Image Classification</title>
-      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</link>
-      <pubDate>Mon, 30 Mar 2020 10:58:05 -0400</pubDate>
+      <title>Twitter Sentimental Analysis</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-5/</link>
+      <pubDate>Sat, 05 Jun 2021 10:58:06 -0400</pubDate>
       
-      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</guid>
-      <description>Image classification is a technique which we use to identify an object with-in the image. Using this project I will learn how can we perform Image classification using Keras &amp;amp; TensorFlow.
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-5/</guid>
+      <description>Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. Using this project I will perform sentimental analysis using Twitter data. This will help me learn more about NLP.
 Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
-Data Background back to top
-Prerequisite You will need the following applications to execute this project-
- Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction The year 2020 was full of COVID-19 spread across the world, multiple lockdowns, and burnout of essential workers.</description>
     </item>
     
     <item>
-      <title>Project 1: Employee Retention Issue</title>
+      <title>Image Classification</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</link>
+      <pubDate>Sat, 15 May 2021 10:58:05 -0400</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-2/</guid>
+      <description>It is an image classification project work. Image classification comes under the computer vision project category and is mostly used in digital image analysis. We can apply image classification for both supervised classification and unsupervised classification. In the supervised classification, we do train model on target class to classify the class correctly in new samples. But we group the samples the cluster of images with similar properties in unsupervised classification. The goal of this project is to work on various approaches to solve the classification problem.</description>
+    </item>
+    
+    <item>
+      <title>Employee Retention Issue</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</link>
-      <pubDate>Fri, 27 Mar 2020 11:58:00 +0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 11:58:00 +0000</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-1/</guid>
       <description>Employee attrition or turnover occurs when an employee leaves the organization. It is different from employee discharge, termination, resignation, and abandonment. In the case of employee attrition, when an employee leaves the company, the employee position remains unfilled. But in the case of turnover, the position is filled by a replacement employee.
@@ -36,7 +42,7 @@ It is a critical problem for employers as it impacts their growth and ability to
     </item>
     
     <item>
-      <title>Project 3: Analysis on Air Travel Safety through Data Visualization</title>
+      <title>Analysis on Air Travel Safety through Data Visualization</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-3/</link>
       <pubDate>Thu, 26 Mar 2020 10:58:30 -1000</pubDate>
       
@@ -50,7 +56,7 @@ Prerequisite You will need the following applications to execute this project-
     </item>
     
     <item>
-      <title>Project 4: Credit Card Fraud Detection</title>
+      <title>Credit Card Fraud Detection</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-4/</link>
       <pubDate>Thu, 26 Mar 2020 10:58:07 -0400</pubDate>
       
@@ -61,18 +67,7 @@ Using this project I will get to learn more on anomaly detection and analysis.</
     </item>
     
     <item>
-      <title>Project 5: Twitter Sentimental Analysis</title>
-      <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-5/</link>
-      <pubDate>Thu, 26 Mar 2020 10:58:06 -0400</pubDate>
-      
-      <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-5/</guid>
-      <description>Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. Using this project I will perform sentimental analysis using Twitter data. This will help me learn more about NLP.
-Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top</description>
-    </item>
-    
-    <item>
-      <title>Project 6: Exploratory Data Analysis</title>
+      <title>Exploratory Data Analysis</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-6/</link>
       <pubDate>Thu, 26 Mar 2020 10:58:04 -0400</pubDate>
       
@@ -84,32 +79,30 @@ Table of Contents  Introduction Data Background Prerequisite Project Status Vers
     </item>
     
     <item>
-      <title>Project 7: Web-Scraping through Python</title>
+      <title>Web-Scraping through Python</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-7/</link>
       <pubDate>Thu, 26 Mar 2020 10:58:04 -0400</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-7/</guid>
       <description>Web scraping is the process of collecting and parsing raw data from the Web. It is one of the important way of getting data when there is no way to get data through API or any other means. Using this project I will learn more about Web-Scraping techniques we can use to get data.
 Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top</description>
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction Data wrangling in one of the important technique in data science.</description>
     </item>
     
     <item>
-      <title>Project 8: Weather Application</title>
+      <title>Weather Application</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-8/</link>
       <pubDate>Thu, 26 Mar 2020 10:58:03 -0400</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-8/</guid>
       <description>Using this project I will get exposure to understand how can we expose JSON API using Python and get the work done.
 Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
-Data Background back to top
-Prerequisite You will need the following applications to execute this project-
- Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction In this project we will be creating an application to interacts with a webservice in order to obtain data.
+Program will prompt the user for their city or zip code and request weather forecast data from OpenWeatherMap.</description>
     </item>
     
     <item>
-      <title>Project 9: Poster on Stock Price Prediction</title>
+      <title>Poster on Stock Price Prediction</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-9/</link>
       <pubDate>Thu, 26 Mar 2020 10:58:02 -0400</pubDate>
       
@@ -118,17 +111,13 @@ Prerequisite You will need the following applications to execute this project-
     </item>
     
     <item>
-      <title>Project 10: Time Series Modelling</title>
+      <title>Hotel Recommendation</title>
       <link>https://sutharshani.github.io/shani_dsc_portfolio/post/project-10/</link>
       <pubDate>Thu, 26 Mar 2020 10:58:01 -0400</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/post/project-10/</guid>
-      <description>Time series analysis uses methods to analyze time series data using statistics and other analytics methods. Time series forecasting is used to predict future values based on historical data.
-Link to GitHub
-Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction back to top
-Data Background back to top
-Prerequisite You will need the following applications to execute this project-
- Python 3 (or Anaconda distribution with Python 3) Jupyter or any other notebook  back to top</description>
+      <description>Link to GitHub
+Table of Contents  Introduction Data Background Prerequisite Project Status Versioning Authors Acknowledgement Reference  Introduction All online travel agencies are scrambling to meet the Artificial Intelligence driven personalization standard set by Amazon and Netflix. In addition, the world of online travel has become a highly competitive space where brands try to capture our attention (and wallet) with recommending, comparing, matching, and sharing. For this assignment, we aim to create the optimal hotel recommendations for Expedia’s users that are searching for a hotel to book.</description>
     </item>
     
     <item>
@@ -137,6 +126,16 @@ Prerequisite You will need the following applications to execute this project-
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sutharshani.github.io/shani_dsc_portfolio/about/</guid>
+      <description>I am a Mainframe Application Programmer, and most of my time goes into writing Assembler code. I have 8+ years of experience in Card Payment Processing.
+I am data enthusiastic by heart, and apart from my routine work, I do love to work on solving data problems. Based on my experience at work, I have realized data is very powerful, when utilized in the right way, it can help gain a lot of insightful and actionable information that can help make better-informed decisions.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://sutharshani.github.io/shani_dsc_portfolio/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sutharshani.github.io/shani_dsc_portfolio/resume/</guid>
       <description>I am a Mainframe Application Programmer, and most of my time goes into writing Assembler code. I have 8+ years of experience in Card Payment Processing.
 I am data enthusiastic by heart, and apart from my routine work, I do love to work on solving data problems. Based on my experience at work, I have realized data is very powerful, when utilized in the right way, it can help gain a lot of insightful and actionable information that can help make better-informed decisions.</description>
     </item>
